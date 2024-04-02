@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_login">#FF1C72A5</color>
+    <color name="hint_login">#80262626</color>
+    <color name="login_button">#0386D0</color>
+    <color name="forgot_password">#D4FAA916</color>
+    <color name="umg_blue">#FF1C72A5</color>
+    <color name="umg_chat_item_background">#E5E5E5</color> <!-- Color de fondo para elementos de chat -->
+    <color name="umg_chat_text">#000000</color> <!-- Color del texto de los elementos de chat -->
+</resources>
